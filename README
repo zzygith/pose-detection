@@ -1,0 +1,9 @@
+Part of the code belongs to the blog https://www.learnopencv.com/multi-person-pose-estimation-in-opencv-using-openpose
+
+A.Requirements : 
+OpenCV > 3.4.1
+
+B. Usage
+Python:
+run multi-person-openpose.py
+
